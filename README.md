@@ -65,13 +65,13 @@ It allows users to perform basic arithmetic operations with a clean and intuitiv
 
 ## 📸 Project Previews
 ### Portfolio Website
-<img width="532" height="807" alt="image" src="https://github.com/user-attachments/assets/3b252f83-d4a5-4bec-96d6-ec49bd59f374" />
+(https://mallesh-1124.github.io/CODSOFT/Portfolio/)
 
 ### Landing Page
-<img width="1266" height="668" alt="image" src="https://github.com/user-attachments/assets/fec0649f-00f1-4c71-ba41-cedd787916a4" />
+https://mallesh-1124.github.io/CODSOFT/landing-page/
 
 ### Calculator
-<img width="1266" height="668" alt="image" src="https://github.com/user-attachments/assets/3cb01714-cf0c-42e0-9c47-5cc239eb3cfd" />
+https://mallesh-1124.github.io/CODSOFT/Calculator/
 
 ---
 
@@ -81,3 +81,4 @@ It allows users to perform basic arithmetic operations with a clean and intuitiv
 - 💼 LinkedIn: [linkedin.com/in/Mallesh](www.linkedin.com/in/mallesh-kolipaka-55397a256)  
 
 ---
+
