@@ -48,5 +48,5 @@ landing-page/
 
 ## 🧑‍💻 Author
 **Mallesh**  
-- GitHub: [github.com/mallesh](https://github.com/mallesh)  
+- GitHub: [github.com/mallesh](https://github.com/Mallesh-1124)  
 - LinkedIn: [linkedin.com/in/mallesh](https://linkedin.com/in/mallesh)
