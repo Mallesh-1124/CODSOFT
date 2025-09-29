@@ -1,53 +1,52 @@
-# Basic Calculator 🧮
+# My Portfolio 🌐
 
-A simple calculator built using **HTML, CSS, and JavaScript**.  
-This project helps beginners understand how to build interactive web applications by applying basic DOM manipulation and event handling.
+A simple and modern **Portfolio Landing Page** built using **HTML and CSS**.  
+This project is designed to showcase personal details, skills, and contact information with a clean and responsive UI.
 
 ---
 
 ## 🚀 Features
-- Perform basic arithmetic operations (+, -, ×, ÷)
-- Clear button to reset the input
-- Responsive and simple UI
-- Beginner-friendly code structure
+- Hero section with introduction and call-to-action button  
+- About Me section with description  
+- Contact section with email, phone, GitHub, and LinkedIn links  
+- Responsive design for desktop and mobile  
+- Simple color palette with gradient backgrounds  
 
 ---
 
 ## 🛠️ Tech Stack
 - **HTML5** – for structure  
-- **CSS3** – for styling and layout  
-- **JavaScript (ES6)** – for calculator logic  
+- **CSS3** – for styling and responsiveness  
 
 ---
 
 ## 📂 Project Structure
-Calculator/
+landing-page/
 │── index.html
-│── style.css
-│── script.js
+└── style.css
 
 ---
 
 ## 💻 How to Run
 1. Clone this repository or download the project files.
 2. Open `index.html` in your browser.
-3. Start calculating!
+3. Explore the portfolio page!
 
 ---
 
 ## 📸 Preview
-<img width="1266" height="668" alt="image" src="https://github.com/user-attachments/assets/bcfb3cd7-49af-44ae-b19d-8209a558f1ec" />
+<img width="1266" height="668" alt="image" src="https://github.com/user-attachments/assets/fec0649f-00f1-4c71-ba41-cedd787916a4" />
 
 ---
 
 ## 📚 Learning Outcomes
-- DOM manipulation in JavaScript  
-- Event listeners and button clicks  
-- Designing a calculator layout with CSS Grid/Flexbox  
+- Creating sections (hero, about, contact) using HTML  
+- Styling with CSS (flexbox, gradients, cards, buttons)  
+- Building a **visually appealing landing page**  
 
 ---
 
 ## 🧑‍💻 Author
 **Mallesh**  
-- GitHub: [github.com/Mallesh-1124](https://github.com/Mallesh-1124)  
-- LinkedIn: [linkedin.com/in/Mallesh](www.linkedin.com/in/mallesh-kolipaka-55397a256)
+- GitHub: [github.com/mallesh](https://github.com/mallesh)  
+- LinkedIn: [linkedin.com/in/mallesh](https://linkedin.com/in/mallesh)
