@@ -1,4 +1,3 @@
-```markdown
 # 🌐 Personal Portfolio - Mallesh Kolipaka
 
 A modern, responsive personal portfolio website built with **HTML** and **CSS** (with some design inspiration from frameworks like Bootstrap/Tailwind).  
@@ -78,5 +77,4 @@ If you'd like to collaborate or have any opportunities:
 
 This project is open source and available under the **MIT License**.
 
-```
-```
+
