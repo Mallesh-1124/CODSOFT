@@ -65,19 +65,19 @@ It allows users to perform basic arithmetic operations with a clean and intuitiv
 
 ## 📸 Project Previews
 ### Portfolio Website
-![Portfolio Screenshot](portfolio.png)  
+<img width="532" height="807" alt="image" src="https://github.com/user-attachments/assets/3b252f83-d4a5-4bec-96d6-ec49bd59f374" />
 
 ### Landing Page
-![Landing Page Screenshot](landingpage.png)  
+<img width="1266" height="668" alt="image" src="https://github.com/user-attachments/assets/fec0649f-00f1-4c71-ba41-cedd787916a4" />
 
 ### Calculator
-![Calculator Screenshot](calculator.png)  
+<img width="1266" height="668" alt="image" src="https://github.com/user-attachments/assets/3cb01714-cf0c-42e0-9c47-5cc239eb3cfd" />
 
 ---
 
 ## 🧑‍💻 Author
 **Mallesh**  
-- 🌐 GitHub: [github.com/mallesh](https://github.com/mallesh)  
-- 💼 LinkedIn: [linkedin.com/in/mallesh](https://linkedin.com/in/mallesh)  
+- 🌐 GitHub: [github.com/Mallesh](https://github.com/Mallesh-1124)  
+- 💼 LinkedIn: [linkedin.com/in/Mallesh](www.linkedin.com/in/mallesh-kolipaka-55397a256)  
 
 ---
