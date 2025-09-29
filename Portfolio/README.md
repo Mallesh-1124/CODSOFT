@@ -6,7 +6,7 @@ This project showcases my **skills**, **projects**, and **contact information**,
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot] <img width="632" height="907" alt="image" src="https://github.com/user-attachments/assets/3b252f83-d4a5-4bec-96d6-ec49bd59f374" />
 
 ---
 
@@ -76,5 +76,6 @@ If you'd like to collaborate or have any opportunities:
 ## 📝 License
 
 This project is open source and available under the **MIT License**.
+
 
 
