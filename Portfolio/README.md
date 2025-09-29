@@ -45,13 +45,39 @@ portfolio/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/Mallesh-1124/portfolio.git
+git clone https://github.com/your-username/portfolio.git
 cd portfolio
 ````
 
 ### 2️⃣ Open in Browser
 
 Simply open `index.html` in your favorite browser.
+
+---
+
+## 🌍 Deployment on GitHub Pages
+
+You can host this portfolio for **free** using GitHub Pages:
+
+1. Push your project to a GitHub repository.
+   Example: `portfolio`
+
+2. Go to **Settings** of your repository.
+
+3. Scroll down to **Pages** (or search "Pages" in settings).
+
+4. Under **Source**, choose:
+
+   * Branch: `main`
+   * Folder: `/root` (or `/docs` if you move files there)
+
+5. Click **Save**.
+
+6. Your site will be live at:
+
+   ```
+   https://your-username.github.io/portfolio/
+   ```
 
 ---
 
@@ -68,7 +94,7 @@ Simply open `index.html` in your favorite browser.
 If you'd like to collaborate or have any opportunities:
 
 * Email: [kmallesh.1124@gmail.com](mailto:kmallesh.1124@gmail.com)
-* GitHub: [github.com/Mallesh-1124](https://github.com/Mallesh)
+* GitHub: [github.com/mallesh](https://github.com/mallesh)
 * LinkedIn: [linkedin.com/in/mallesh](https://linkedin.com/in/mallesh)
 
 ---
@@ -76,9 +102,4 @@ If you'd like to collaborate or have any opportunities:
 ## 📝 License
 
 This project is open source and available under the **MIT License**.
-
-
-
-
-
 
