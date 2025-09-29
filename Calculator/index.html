@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Basic Calculator</h1>
+        <p>A simple calculator built with HTML, CSS, and JavaScript.</p>
+    </div>
+    <div class="calculator">
+        <div class="display" id="display">0</div>
+        <div class="buttons">
+            <button class="clear" id="clear">C</button>
+            <button class="operator" data-operator="/">&#247;</button>
+            <button class="operator" data-operator="*">&times;</button>
+            <button class="operator" data-operator="-">-</button>
+            <button data-number="7">7</button>
+            <button data-number="8">8</button>
+            <button data-number="9">9</button>
+            <button class="operator" data-operator="+">+</button>
+            <button data-number="4">4</button>
+            <button data-number="5">5</button>
+            <button data-number="6">6</button>
+            <button data-number="1">1</button>
+            <button data-number="2">2</button>
+            <button data-number="3">3</button>
+            <button class="equal" id="equal">=</button>
+            <button data-number="0" class="zero-btn">0</button>
+            <button data-number=".">.</button>
+        </div>
+    </div>
+    <script>
+        const display = document.getElementById('display');
+        const buttons = document.querySelectorAll('button');
+        let currentInput = '';
+        let operator = '';
+        let firstValue = '';
+        let waitingForSecondValue = false;
+
+        function updateDisplay(value) {
+            display.textContent = value;
+        }
+
+        buttons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                if (btn.hasAttribute('data-number')) {
+                    if (waitingForSecondValue) {
+                        currentInput = btn.getAttribute('data-number');
+                        waitingForSecondValue = false;
+                    } else {
+                        if (btn.getAttribute('data-number') === '.' && currentInput.includes('.')) return;
+                        currentInput += btn.getAttribute('data-number');
+                    }
+                    updateDisplay(currentInput || '0');
+                } else if (btn.hasAttribute('data-operator')) {
+                    if (currentInput === '' && firstValue === '') return;
+                    if (firstValue && operator && currentInput) {
+                        firstValue = calculate(firstValue, operator, currentInput);
+                        updateDisplay(firstValue);
+                        currentInput = '';
+                    } else if (currentInput) {
+                        firstValue = currentInput;
+                        currentInput = '';
+                    }
+                    operator = btn.getAttribute('data-operator');
+                    waitingForSecondValue = true;
+                } else if (btn.id === 'equal') {
+                    if (firstValue && operator && currentInput) {
+                        let result = calculate(firstValue, operator, currentInput);
+                        updateDisplay(result);
+                        currentInput = result;
+                        firstValue = '';
+                        operator = '';
+                        waitingForSecondValue = false;
+                    }
+                } else if (btn.id === 'clear') {
+                    currentInput = '';
+                    operator = '';
+                    firstValue = '';
+                    waitingForSecondValue = false;
+                    updateDisplay('0');
+                }
+            });
+        });
+
+        function calculate(a, op, b) {
+            a = parseFloat(a);
+            b = parseFloat(b);
+            if (op === '+') return (a + b).toString();
+            if (op === '-') return (a - b).toString();
+            if (op === '*') return (a * b).toString();
+            if (op === '/') return b !== 0 ? (a / b).toString() : 'Error';
+            return b.toString();
+        }
+    </script>
+</body>
+</html>
