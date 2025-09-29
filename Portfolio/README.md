@@ -45,7 +45,7 @@ portfolio/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Mallesh-1124/portfolio.git
 cd portfolio
 ````
 
@@ -68,7 +68,7 @@ Simply open `index.html` in your favorite browser.
 If you'd like to collaborate or have any opportunities:
 
 * Email: [kmallesh.1124@gmail.com](mailto:kmallesh.1124@gmail.com)
-* GitHub: [github.com/mallesh](https://github.com/mallesh)
+* GitHub: [github.com/Mallesh-1124](https://github.com/Mallesh)
 * LinkedIn: [linkedin.com/in/mallesh](https://linkedin.com/in/mallesh)
 
 ---
@@ -76,6 +76,7 @@ If you'd like to collaborate or have any opportunities:
 ## 📝 License
 
 This project is open source and available under the **MIT License**.
+
 
 
 
