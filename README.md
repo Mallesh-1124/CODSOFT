@@ -11,7 +11,7 @@ These tasks helped me practice structuring web pages, styling with CSS, and buil
 ### 1️⃣ Portfolio Website
 A personal portfolio website showcasing my introduction, skills, and contact information.  
 It features a modern layout with sections like **About Me**, **Contact**, and **Resume Download**.
-- **Check Live**: (https://mallesh-1124.github.io/CODSOFT/Portfolio/)
+- **Check Live**: [Portfolio](https://mallesh-1124.github.io/CODSOFT/Portfolio/)
 - **Tech Used**: HTML, CSS  
 - **Features**:
   - Hero section with profile and call-to-action button  
@@ -24,7 +24,7 @@ It features a modern layout with sections like **About Me**, **Contact**, and **
 ### 2️⃣ Landing Page
 A simple and creative landing page designed to demonstrate layout, color palette, and alignment skills.  
 This project highlights **HTML structure** and **CSS styling techniques**.
-- **Check Live**: (https://mallesh-1124.github.io/CODSOFT/landing-page/)
+- **Check Live**: [Landing-page](https://mallesh-1124.github.io/CODSOFT/landing-page/)
 - **Tech Used**: HTML, CSS  
 - **Features**:
   - Header and navigation bar  
@@ -37,7 +37,7 @@ This project highlights **HTML structure** and **CSS styling techniques**.
 ### 3️⃣ Basic Calculator
 A simple calculator built using **HTML, CSS, and JavaScript**.  
 It allows users to perform basic arithmetic operations with a clean and intuitive UI.
-- **Check Live**: (https://mallesh-1124.github.io/CODSOFT/Calculator/)
+- **Check Live**: [Calculator](https://mallesh-1124.github.io/CODSOFT/Calculator/)
 - **Tech Used**: HTML, CSS, JavaScript  
 - **Features**:
   - Supports addition, subtraction, multiplication, division  
@@ -65,13 +65,13 @@ It allows users to perform basic arithmetic operations with a clean and intuitiv
 
 ## 📸 Project Previews
 ### Portfolio Website
-(https://mallesh-1124.github.io/CODSOFT/Portfolio/)
+[github.com/Portfolio](https://mallesh-1124.github.io/CODSOFT/Portfolio/)
 
 ### Landing Page
-https://mallesh-1124.github.io/CODSOFT/landing-page/
+[github.com/Landing-page](https://mallesh-1124.github.io/CODSOFT/landing-page/)
 
 ### Calculator
-https://mallesh-1124.github.io/CODSOFT/Calculator/
+[github.com/Calculator](https://mallesh-1124.github.io/CODSOFT/Calculator/)
 
 ---
 
@@ -81,6 +81,7 @@ https://mallesh-1124.github.io/CODSOFT/Calculator/
 - 💼 LinkedIn: [linkedin.com/in/Mallesh](www.linkedin.com/in/mallesh-kolipaka-55397a256)  
 
 ---
+
 
 
 
